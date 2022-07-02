@@ -1,0 +1,14 @@
+{
+  "name": "@renoeno/design-assets",
+  "description": "Biblioteca de Assets para o Curso Design System in Code da Meiuca",
+  "version": "0.1.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "build": "rimraf dist && node src/build.js"
+  },
+  "devDependencies": {
+    "fs-extra": "^10.1.0",
+    "rimraf": "^3.0.2"
+  }
+}
