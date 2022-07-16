@@ -3,6 +3,10 @@
   "description": "Biblioteca de Assets para o Curso Design System in Code da Meiuca",
   "version": "0.1.0",
   "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/renoeno/ds-in-code-assets"
+  },
   "license": "MIT",
   "scripts": {
     "build": "rimraf dist && node src/build.js"
